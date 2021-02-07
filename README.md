@@ -1,2 +1,2 @@
 # Polynomials
- Lab 2's Project
+ Lab 1's Project File
