@@ -1,0 +1,27 @@
+Java Problems
+
+For each of the numbered problems:
+- State whether the problem occurs at compile-time or run-time
+- Briefly describe what the problem is in plain English
+
+1. run-time
+   The class and the java file are named different things.
+2. compile-time
+   The next method used by the Scanner will return a string and the requested type is integer
+3. run-time
+   The divide by 0 error will occur when the program is run
+4. compile-time
+   The argument "y" was never given a type
+5. compile-time
+   The min method will not return any value if y is less than x, causing the compiler to not see a default return
+6. run-time
+   The get method will compile, but when being called, the method will return an out of bounds error
+7. compile-time
+   The provided item is a string not a character, String uses "", char uses ''
+8. compile-time
+   The compiler is able to know that the variable j is used without being initialized and will in turn not compile
+9. compile-time
+   The provided value is technically a double until you add a signifier "F" to the end of the number, ex: 0.0F
+10. run-time
+    The code will compile, but the out of bounds error will occur when trying to call for an index of 12 when the
+    largest possible is 10
